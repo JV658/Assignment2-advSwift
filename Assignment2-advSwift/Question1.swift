@@ -28,7 +28,7 @@ import Foundation
  parameters:
     - string: String
  return type:
-    - Void
+    - String
  
  FUNCTION 3:
  create a function that will return the middle element of an array
